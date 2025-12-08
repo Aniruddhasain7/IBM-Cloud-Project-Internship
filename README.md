@@ -6,16 +6,25 @@ It provides workouts, healthy snacks, and motivational tips based on simple natu
 🚀 Features
 
 • Personalized home workout suggestions
+
 • Healthy snack recommendations
+
 • Motivational fitness messages
-• Built with ReAct agent architecture.       (LangGraph)
+
+• Built with ReAct agent architecture     (LangGraph)
+
 • No coding or model training required
+
 • Fully cloud-based (IBM WatsonX)
 
 🧠 Tech Stack
 
 • IBM WatsonX Agent Lab (Beta)
+
 • Granite-3-3-8b-instruct LLM
+
 • LangGraph Framework
+
 • ReAct Architecture
+
 • Google Search Tool
