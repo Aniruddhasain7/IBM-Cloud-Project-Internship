@@ -28,3 +28,16 @@ It provides workouts, healthy snacks, and motivational tips based on simple natu
 • ReAct Architecture
 
 • Google Search Tool
+
+
+🛠️ What It Does
+
+Users can ask:
+
+• “Give me a morning workout”
+
+• “Suggest healthy snacks”
+
+• “Motivate me”
+
+The agent responds with structured routines, diet ideas, and motivation.
