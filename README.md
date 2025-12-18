@@ -13,7 +13,6 @@ It provides workouts, healthy snacks, and motivational tips based on simple natu
 
 • Built with ReAct agent architecture     (LangGraph)
 
-• No coding or model training required
 
 • Fully cloud-based (IBM WatsonX)
 
