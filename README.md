@@ -1,9 +1,9 @@
-🏋️‍♂️ Fitness Buddy – AI-Powered Health Assistant
+# 🏋️‍♂️ Fitness Buddy – AI-Powered Health Assistant
 
 Fitness Buddy is an AI-based virtual fitness coach built using IBM WatsonX Agent Lab, Granite LLM, and Agentic AI.
 It provides workouts, healthy snacks, and motivational tips based on simple natural language queries.
 
-🚀 Features
+## 🚀 Features
 
 • Personalized home workout suggestions
 
@@ -16,7 +16,7 @@ It provides workouts, healthy snacks, and motivational tips based on simple natu
 
 • Fully cloud-based (IBM WatsonX)
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 
 • IBM WatsonX Agent Lab (Beta)
 
@@ -29,7 +29,7 @@ It provides workouts, healthy snacks, and motivational tips based on simple natu
 • Google Search Tool
 
 
-🛠️ What It Does
+## 🛠️ What It Does
 
 Users can ask:
 
